@@ -4,3 +4,4 @@ dist
 nbproject
 .gradle
 .DS_Store
+.idea

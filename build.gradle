@@ -103,5 +103,5 @@ task build(dependsOn: ['jqgrid-min', 'min-files', 'i18n']) {
 
 
 task wrap(type: Wrapper) {
-    gradleVersion = '1.0-milestone-8a'
+    gradleVersion = '1.11'
 }
